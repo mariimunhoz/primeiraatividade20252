@@ -1,0 +1,18 @@
+body {background-image: linear-gradient(black, purple)
+}
+h1 { color:red;
+     font-size: 350%;
+    text-align: center;}
+#ima1 {width: 50%;
+    margin-left: 20%;
+}
+
+#ima2 {width: 20%;
+    margin-left: 35%;
+}
+
+h3{
+    color: gold;
+    border-color: beige;
+    border-style: groove;
+}
